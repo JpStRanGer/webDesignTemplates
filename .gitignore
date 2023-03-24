@@ -1,3 +1,12 @@
+### Sass ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# json lockfile
+package-lock.json
+
 # Logs
 logs
 *.log
