@@ -5,7 +5,7 @@
 *.scss.map
 
 # json lockfile
-package-lock.json
+package-lock
 
 # Logs
 logs
